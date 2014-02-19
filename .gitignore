@@ -1,0 +1,12 @@
+*~
+*.swo
+*.swp
+*.vim
+
+*.o
+*.so
+
+build
+log
+
+cscope.*
